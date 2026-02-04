@@ -1,3 +1,4 @@
 drogonframework/drogon:latest
 mysql:8.0
 phpmyadmin/phpmyadmin:latest
+node:18-alpine
