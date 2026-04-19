@@ -6,3 +6,4 @@ mariadb:10.6
 golang：latest
 alpine:latest
 redis:7-alpine
+postgres:latest
