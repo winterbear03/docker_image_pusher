@@ -8,3 +8,4 @@ alpine:latest
 redis:7-alpine
 postgres:latest
 nginx:alpine
+elestio/minio:latest
