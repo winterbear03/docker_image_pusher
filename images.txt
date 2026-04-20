@@ -3,7 +3,7 @@ mysql:8.0
 phpmyadmin/phpmyadmin:latest
 node:18-alpine
 mariadb:10.6
-golang：latest
+golang:latest
 alpine:latest
 redis:7-alpine
 postgres:latest
