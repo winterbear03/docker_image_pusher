@@ -7,3 +7,4 @@ golang:latest
 alpine:latest
 redis:7-alpine
 postgres:latest
+nginx:alpine
