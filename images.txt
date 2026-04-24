@@ -9,5 +9,5 @@ redis:7-alpine
 postgres:latest
 nginx:alpine
 elestio/minio:latest
-zookeepr:latest
+zookeeper:latest
 ubuntu/kafka:latest
