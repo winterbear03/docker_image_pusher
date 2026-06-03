@@ -11,4 +11,4 @@ nginx:alpine
 elestio/minio:latest
 zookeeper:latest
 ubuntu/kafka:latest
-influxdb：2.5.1
+influxdb:2.5.1
