@@ -12,3 +12,4 @@ elestio/minio:latest
 zookeeper:latest
 ubuntu/kafka:latest
 influxdb:2.5.1
+eclipse-mosquitto:2.0.15
