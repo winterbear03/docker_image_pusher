@@ -13,3 +13,4 @@ zookeeper:latest
 ubuntu/kafka:latest
 influxdb:2.5.1
 eclipse-mosquitto:2.0.15
+arm64v8/golang:1.19.10-alpine3.18
